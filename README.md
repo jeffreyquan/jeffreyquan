@@ -1,4 +1,4 @@
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyquan&theme=tokyonight&show_icons=true)
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyquan&theme=tokyonight&show_icons=true&line_height=27)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyquan&theme=tokyonight&hide=java,ruby,html,css,vue,scss,swift&langs_count=3)
 
 ### ⚒️ Languages and Tools:
